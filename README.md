@@ -22,5 +22,5 @@ The dataset used in this project is NFI - offline dataset that was used in ICDAR
 
 - **Signature** - Contains the Dataset.
 - **LICENSE** - Contains license document.
-- **README.md** - Contains documenttation of the repository.
+- **README.md** - Contains documentation of the repository.
 - **Submission.ipynb** - Program for Signature Verification.
